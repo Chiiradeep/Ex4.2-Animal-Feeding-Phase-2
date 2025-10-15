@@ -1,6 +1,6 @@
 # Ex4.2-Animal-Feeding-Phase-2
 
-## Aim:
+# Aim:
 To develop a animal feeding game-Phase-2 using unity.
 
 # Algorithm:
@@ -33,11 +33,11 @@ For all the animal prefabs and food in th inspector (below the layer ) drop down
 
 
 
-## Program:
+# Program:
 
-# DEVELOPED BY: Chiiradeep R
-# REG NO: 212224240028
-# SPAWN MANAGER:
+## DEVELOPED BY: Chiiradeep R
+## REG NO: 212224240028
+## SPAWN MANAGER:
 ~~~csharp
 using UnityEngine;
 
@@ -66,7 +66,7 @@ void SpawnRandomAnimal()
 }
 ~~~
 
-# DETECT COLLIDER:
+## DETECT COLLIDER:
 ~~~csharp
 using UnityEngine;
 
@@ -90,8 +90,8 @@ public class DetectCollision : MonoBehaviour
     }
 }
 ~~~
-## Output:
+# Output:
 ![alt text](image.png)
 
-## Result:
+# Result:
 Animal feeding game-Phase-2 using unity is developed successfully.
